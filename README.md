@@ -34,7 +34,6 @@ Time spent: `10 hrs`
 
 ### Walkthrough
 
-`dropbox.gif`
-![Video Walkthrough](...)
+![Video Walkthrough](dropbox.gif)
 
 
