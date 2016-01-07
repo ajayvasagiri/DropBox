@@ -1,0 +1,19 @@
+{
+  "name": "client1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client" : "nodemon --exec babel-node -- --optional strict --stage 1 -- index.js",
+    "start": "nodemon --exec babel-node -- --optional strict --stage 1 -- index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nssocket": "^0.6.0",
+    "request": "^2.67.0",
+    "songbird": "^1.0.1"
+  }
+  
+}
